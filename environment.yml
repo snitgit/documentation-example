@@ -20,3 +20,24 @@ dependencies:
   - pip
 #  - pip:
 #    - jupyterlab-github==2.0.0
+
+    # add snit
+  - myst_nb 
+
+  - sphinx-copybutton 
+
+  - sphinx-lesson 
+
+  - sphinx_rtd_theme_ext_color_contrast 
+
+  - sphinx-plausible 
+
+  - sphinxext-opengraph 
+
+ 
+
+# for web-apis execution 
+
+  - jsonlines 
+
+  - bs4 
